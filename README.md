@@ -54,7 +54,7 @@ The main features of the website can be accessed directly by opening the **index
 The project includes a simple contact form with basic validation for required fields and valid email format.
 
 ### Screenshots
-![Screenshot of Example Application](./screenshots/screenshot.png)
+![Screenshot of Example Application](./screenshots/screenshot.PNG)
 
 ### Contributing
 Contributions are welcome! Please follow these steps to contribute:
