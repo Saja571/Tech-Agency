@@ -43,7 +43,7 @@ Follow these steps to set up the project locally:
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/tech-agency-project.git
+   git clone https://github.com/Saja571/Tech-Agency.git
    cd tech-agency-project
 2. **Open the project in your code editor (e.g., VSCode)**
 3. **Open the index.html file in your browser to view the project**
@@ -70,4 +70,4 @@ Contributions are welcome! Please follow these steps to contribute:
 This project is licensed under the MIT License.
 
 ### Live Demo
-**Live Link:**https://saja571.github.io/Tech-Agency/
+**Live Link:** https://saja571.github.io/Tech-Agency
